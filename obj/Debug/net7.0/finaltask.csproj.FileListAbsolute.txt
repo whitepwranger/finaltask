@@ -1,0 +1,15 @@
+C:\Users\Peperoni\Desktop\newgit\finaltask\obj\Debug\net7.0\finaltask.csproj.AssemblyReference.cache
+C:\Users\Peperoni\Desktop\newgit\finaltask\obj\Debug\net7.0\finaltask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Peperoni\Desktop\newgit\finaltask\obj\Debug\net7.0\finaltask.AssemblyInfoInputs.cache
+C:\Users\Peperoni\Desktop\newgit\finaltask\obj\Debug\net7.0\finaltask.AssemblyInfo.cs
+C:\Users\Peperoni\Desktop\newgit\finaltask\obj\Debug\net7.0\finaltask.csproj.CoreCompileInputs.cache
+C:\Users\Peperoni\Desktop\newgit\finaltask\bin\Debug\net7.0\finaltask.exe
+C:\Users\Peperoni\Desktop\newgit\finaltask\bin\Debug\net7.0\finaltask.deps.json
+C:\Users\Peperoni\Desktop\newgit\finaltask\bin\Debug\net7.0\finaltask.runtimeconfig.json
+C:\Users\Peperoni\Desktop\newgit\finaltask\bin\Debug\net7.0\finaltask.dll
+C:\Users\Peperoni\Desktop\newgit\finaltask\bin\Debug\net7.0\finaltask.pdb
+C:\Users\Peperoni\Desktop\newgit\finaltask\obj\Debug\net7.0\finaltask.dll
+C:\Users\Peperoni\Desktop\newgit\finaltask\obj\Debug\net7.0\refint\finaltask.dll
+C:\Users\Peperoni\Desktop\newgit\finaltask\obj\Debug\net7.0\finaltask.pdb
+C:\Users\Peperoni\Desktop\newgit\finaltask\obj\Debug\net7.0\finaltask.genruntimeconfig.cache
+C:\Users\Peperoni\Desktop\newgit\finaltask\obj\Debug\net7.0\ref\finaltask.dll
